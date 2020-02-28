@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PetitPizza</string>
+    <string name="str_btn_size">Pick your pizza size .</string>
+    <string name="str_btn_sauce">Pick your base sauce</string>
+    <string name="str_btn_toppings">Pick your toppings.</string>
+    <string name="str_btn_order">Place your order !</string>
+</resources>
